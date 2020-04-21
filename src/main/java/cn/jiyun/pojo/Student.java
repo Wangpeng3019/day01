@@ -10,15 +10,14 @@ public class Student {
     private String hobby;
     private Integer age;
     private Date beginDate;
+    private String git;
 
-    private  String  uname;
-
-    public String getUname() {
-        return uname;
+    public String getGit() {
+        return git;
     }
 
-    public void setUname(String uname) {
-        this.uname = uname;
+    public void setGit(String git) {
+        this.git = git;
     }
 
     public String getUserName() {
@@ -35,5 +34,17 @@ public class Student {
 
     public void setId(Integer id) {
         this.id = id;
+    }
+
+    @Override
+    public String toString() {
+        return "Student{" +
+                "userName='" + userName + '\'' +
+                ", id=" + id +
+                ", address='" + address + '\'' +
+                ", hobby='" + hobby + '\'' +
+                ", age=" + age +
+                ", beginDate=" + beginDate +
+                '}';
     }
 }
