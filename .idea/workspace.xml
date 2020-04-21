@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="42f94aa1-5e0f-45d5-aae7-a5a068b24466" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/cn/jiyun/pojo/aa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/cn/jiyun/pojo/Student.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/cn/jiyun/pojo/aa.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cn/jiyun/pojo/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cn/jiyun/pojo/Student.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -123,8 +118,16 @@
       <option name="presentableId" value="Default" />
       <updated>1587304980869</updated>
       <workItem from="1587304984428" duration="165000" />
-      <workItem from="1587471934505" duration="1690000" />
+      <workItem from="1587471934505" duration="2590000" />
     </task>
+    <task id="LOCAL-00001" summary="提交test">
+      <created>1587473918848</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1587473918848</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -140,6 +143,11 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="提交aa类" />
+    <MESSAGE value="提交test" />
+    <option name="LAST_COMMIT_MESSAGE" value="提交test" />
   </component>
   <component name="masterDetails">
     <states>
