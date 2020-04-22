@@ -12,6 +12,7 @@ public class Student {
     private Date beginDate;
     private String git;
 private String ooo;
+    priavate String ppp;
     public String getGit() {
         return git;
     }
