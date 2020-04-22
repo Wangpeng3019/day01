@@ -11,7 +11,7 @@ public class Student {
     private Integer age;
     private Date beginDate;
     private String git;
-
+private String ooo;
     public String getGit() {
         return git;
     }
